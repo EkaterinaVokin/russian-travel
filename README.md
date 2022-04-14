@@ -1,5 +1,7 @@
 # Проект: Путешествие по России
 
+Для просмотра проекта перейтите по [ссылке](https://ekatinavokin.github.io/russian-travel/index.html).
+
 ### Обзор
 * Интро
 * Figma
