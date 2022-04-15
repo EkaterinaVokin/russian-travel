@@ -1,0 +1,12 @@
+.place__section-link {
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 1.2;
+  transition: opacity 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.place__section-link:hover {
+  opacity: 0.6;
+}

@@ -1,0 +1,10 @@
+.place__section {
+  display: grid;
+  grid-template-columns: 1fr calc(50% - 8px);
+  column-gap: 40px;
+  row-gap: 48px; 
+}
+
+.place__section:not(:last-child) {
+  margin-bottom: 80px;
+}

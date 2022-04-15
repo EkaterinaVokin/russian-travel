@@ -1,0 +1,12 @@
+
+.place__section-paragraph {
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.place__section-paragraph:not(:last-child) {
+  margin-bottom: 26px;
+}
