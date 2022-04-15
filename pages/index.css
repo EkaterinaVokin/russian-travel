@@ -40,6 +40,11 @@
 @import url(../blocks/place/__section-link/place__section-link.css);
 @import url(../blocks/place/__section-image/place__section-image.css);
 @import url(../blocks/place/__section-paragraph/place__section-paragraph.css);
+/* Подключение блока cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
 
 
