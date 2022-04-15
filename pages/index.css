@@ -27,6 +27,10 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__term/intro__term.css);
 @import url(../blocks/intro/__definition/intro__definition.css);
+/* Подключение блока photo */
+@import url(../blocks/photo/photo.css);
+@import url(../blocks/photo/__grid/photo__grid.css);
+@import url(../blocks/photo/__grid-image/photo__grid-image.css);
 
 
 
