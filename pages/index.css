@@ -6,3 +6,5 @@
 @import url(../pages/base.css);
 /* Подключение блока root */
 @import url(../blocks/root/root.css);
+/* Подключение блока  container */
+@import url(../blocks/container/container.css);

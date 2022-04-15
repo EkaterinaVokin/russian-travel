@@ -1,0 +1,8 @@
+.container {
+  margin: 0 auto;
+  max-width: 984px;
+}
+
+.container_width_wide {
+  max-width: 1184px;
+}
