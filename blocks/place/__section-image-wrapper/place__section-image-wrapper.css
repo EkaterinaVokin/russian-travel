@@ -1,3 +1,10 @@
 .place__section-image-wrapper {
   max-width: 460px;
 }
+
+@media (max-width:767px){
+  .place__section-image-wrapper {
+    margin-left: -16px;
+    margin-right: -16px;
+  } 
+}
