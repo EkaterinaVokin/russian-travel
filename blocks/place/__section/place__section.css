@@ -19,4 +19,11 @@
   .place__section {
     column-gap: 28px; 
   }
+@media (max-width:767px){
+  .place__section {
+    grid-template-columns: 1fr;
+  }
+  .place__section:not(:last-child) {
+    margin-bottom: 50px;
+  }
 }
