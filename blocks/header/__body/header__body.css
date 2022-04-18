@@ -1,6 +1,12 @@
 .header__body {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: end;
   height: 52px;
+}
+
+@media (max-width:767px){
+  .header__body {
+    height: 42px;
+  }
 }

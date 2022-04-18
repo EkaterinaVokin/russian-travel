@@ -1,3 +1,9 @@
 .place {
   margin-top: 92px;
 }
+
+@media (max-width:767px){
+  .place {
+    margin-top: 64px;
+  }
+}

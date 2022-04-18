@@ -12,3 +12,9 @@
     font-size: 42px;
   }
 }
+
+@media (max-width:767px){
+  .place__section-title {
+    font-size: 32px;
+  }
+}
