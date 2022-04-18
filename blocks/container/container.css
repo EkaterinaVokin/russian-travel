@@ -6,3 +6,15 @@
 .container_width_wide {
   max-width: 1184px;
 }
+
+@media (max-width:1279px){
+  .container {
+    max-width: 928px;
+  }
+  .container_width_wide {
+    max-width: 1024px;
+  }
+  .container_width_reset-tablet-1024 {
+    max-width: 928px;
+  }
+}
