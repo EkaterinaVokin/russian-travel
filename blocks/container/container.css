@@ -33,3 +33,18 @@
     max-width: 720px;
   }
 }
+
+@media (max-width:767px){
+  .container {
+    max-width: 288px;
+  }
+  .container_width_wide {
+    max-width: 320px;
+  }
+  .container_width_wide-320 {
+    max-width: 320px;
+  }
+  .container_width_reset-tablet-320 {
+    max-width: 288px;
+  }
+}
