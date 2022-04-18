@@ -4,4 +4,6 @@
 
 html {
   background-color: #2A2C2F;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
