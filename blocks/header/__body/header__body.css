@@ -1,6 +1,6 @@
 .header__body {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: end;
   height: 52px;
 }
