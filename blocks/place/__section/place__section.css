@@ -8,3 +8,9 @@
 .place__section:not(:last-child) {
   margin-bottom: 80px;
 }
+
+@media (max-width:1279px){
+  .place__section {
+    column-gap: 32px; 
+  }
+}
