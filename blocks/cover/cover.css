@@ -1,5 +1,7 @@
 .cover {
   margin-top: 92px;
+  display: block;
+  text-decoration: none;
 }
 
 @media (max-width:767px){
