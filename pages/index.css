@@ -5,7 +5,7 @@
 /* Подключение базовых стилей */
 @import url(../pages/base.css);
 /* Подключение блока root */
-@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
 /* Подключение блока  container */
 @import url(../blocks/container/container.css);
 /* Подключение блока header */
