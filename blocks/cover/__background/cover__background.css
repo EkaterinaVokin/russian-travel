@@ -1,7 +1,7 @@
 .cover__background {
   background-image: url(../../../images/cover-trains.jpg);
   width: 100%;
-  height: 740px;
+  min-height: 740px;
   background-size: cover;
   position: relative;
   cursor: pointer;
@@ -26,8 +26,15 @@
    opacity: 0.8;
  }
 
+ @media (max-width: 1279px){
+  .cover__background {
+    min-height: calc(640px + (740 - 640px) * ( (100vw - 1024px) / (1279 - 1024)));
+  }
+}
+
  @media (max-width:767px){
   .cover__background {
-    height: 200px;
+    min-height: 200px;
+    height: 62.5vw;
   }
 }
