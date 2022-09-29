@@ -2,7 +2,7 @@
 
 > _«Путешествовать – значит жить» – Ханс Кристиан Андерсен_
 
-*** Проектная работа от ["Яндекс Практикум"](https://practicum.yandex.ru/web/)***
+***Проектная работа от ["Яндекс Практикум"](https://practicum.yandex.ru/web/)***
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/100767361/192951906-e5dd89f9-49a5-4ab8-909f-eafe41f7ef22.png">
 
